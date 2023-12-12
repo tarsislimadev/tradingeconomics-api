@@ -22,10 +22,16 @@ API_KEY=
 
 [Keys](https://developer.tradingeconomics.com/Home/Keys)
 
-###
+### country
 
 ```sh
 bash ./src/country.sh
+```
+
+### markets.search
+
+```sh
+bash ./src/markets.search.sh "Mexico"
 ```
 
 ## license

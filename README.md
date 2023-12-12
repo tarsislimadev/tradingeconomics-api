@@ -22,6 +22,12 @@ API_KEY=
 
 [Keys](https://developer.tradingeconomics.com/Home/Keys)
 
+###
+
+```sh
+bash ./src/country.sh
+```
+
 ## license
 
 [MIT](./LICENSE)

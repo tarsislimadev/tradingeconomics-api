@@ -16,6 +16,12 @@ API_KEY=
 
 ```
 
+## how to use
+
+### links
+
+[Keys](https://developer.tradingeconomics.com/Home/Keys)
+
 ## license
 
 [MIT](./LICENSE)
